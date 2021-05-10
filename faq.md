@@ -36,6 +36,7 @@ Our recommendations for master/slave terminology are:
 
 Our recommendations for blacklist/whitelist terminology are:
 
+ * blocklist / allowlist - this is the combination used by IBM, as seen in the [glossary for IBM Cloud](https://cloud.ibm.com/docs/overview?topic=overview-glossary)
  * denylist / allowlist
  * blocklist / passlist
 
